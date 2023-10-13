@@ -1,0 +1,7 @@
+/Users/jerrycodes/Desktop/springboot/microservice-correct/product-service/src/main/java/com/jayklef/productservice/ProductServiceApplication.java
+/Users/jerrycodes/Desktop/springboot/microservice-correct/product-service/src/main/java/com/jayklef/productservice/controller/ProductController.java
+/Users/jerrycodes/Desktop/springboot/microservice-correct/product-service/src/main/java/com/jayklef/productservice/dto/ProductDto.java
+/Users/jerrycodes/Desktop/springboot/microservice-correct/product-service/src/main/java/com/jayklef/productservice/model/Product.java
+/Users/jerrycodes/Desktop/springboot/microservice-correct/product-service/src/main/java/com/jayklef/productservice/repository/ProductRepository.java
+/Users/jerrycodes/Desktop/springboot/microservice-correct/product-service/src/main/java/com/jayklef/productservice/service/ProductService.java
+/Users/jerrycodes/Desktop/springboot/microservice-correct/product-service/src/main/java/com/jayklef/productservice/dto/ProductResponseDto.java

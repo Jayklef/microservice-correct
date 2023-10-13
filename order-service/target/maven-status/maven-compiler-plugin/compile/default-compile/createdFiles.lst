@@ -1,0 +1,8 @@
+com/jayklef/orderservice/model/OrderItems.class
+com/jayklef/orderservice/OrderServiceApplication.class
+com/jayklef/orderservice/dto/OrderDetails.class
+com/jayklef/orderservice/dto/OrderItemsDto.class
+com/jayklef/orderservice/repository/OrderRepository.class
+com/jayklef/orderservice/service/OrderService.class
+com/jayklef/orderservice/model/Order.class
+com/jayklef/orderservice/controller/OrderController.class

@@ -1,0 +1,8 @@
+/Users/jerrycodes/Desktop/springboot/microservice-correct/order-service/src/main/java/com/jayklef/orderservice/model/Order.java
+/Users/jerrycodes/Desktop/springboot/microservice-correct/order-service/src/main/java/com/jayklef/orderservice/repository/OrderRepository.java
+/Users/jerrycodes/Desktop/springboot/microservice-correct/order-service/src/main/java/com/jayklef/orderservice/controller/OrderController.java
+/Users/jerrycodes/Desktop/springboot/microservice-correct/order-service/src/main/java/com/jayklef/orderservice/service/OrderService.java
+/Users/jerrycodes/Desktop/springboot/microservice-correct/order-service/src/main/java/com/jayklef/orderservice/dto/OrderDetails.java
+/Users/jerrycodes/Desktop/springboot/microservice-correct/order-service/src/main/java/com/jayklef/orderservice/model/OrderItems.java
+/Users/jerrycodes/Desktop/springboot/microservice-correct/order-service/src/main/java/com/jayklef/orderservice/dto/OrderItemsDto.java
+/Users/jerrycodes/Desktop/springboot/microservice-correct/order-service/src/main/java/com/jayklef/orderservice/OrderServiceApplication.java

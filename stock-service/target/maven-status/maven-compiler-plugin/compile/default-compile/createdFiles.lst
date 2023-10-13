@@ -1,0 +1,5 @@
+com/jayklef/stockservice/model/Stock.class
+com/jayklef/stockservice/service/StockService.class
+com/jayklef/stockservice/StockServiceApplication.class
+com/jayklef/stockservice/repository/StockRepository.class
+com/jayklef/stockservice/controller/StockController.class

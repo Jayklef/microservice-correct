@@ -1,0 +1,10 @@
+com/jayklef/productservice/ProductServiceApplication.class
+com/jayklef/productservice/service/ProductService.class
+com/jayklef/productservice/repository/ProductRepository.class
+com/jayklef/productservice/dto/ProductDto$ProductDtoBuilder.class
+com/jayklef/productservice/controller/ProductController.class
+com/jayklef/productservice/model/Product$ProductBuilder.class
+com/jayklef/productservice/dto/ProductResponseDto$ProductResponseDtoBuilder.class
+com/jayklef/productservice/dto/ProductDto.class
+com/jayklef/productservice/model/Product.class
+com/jayklef/productservice/dto/ProductResponseDto.class
