@@ -28,6 +28,8 @@ public class OrderService {
 
         order.setOrderItemsList(orderItems);
 
+        // call stock service and place order if goods is in stock
+
         orderRepository.save(order);
     }
 
