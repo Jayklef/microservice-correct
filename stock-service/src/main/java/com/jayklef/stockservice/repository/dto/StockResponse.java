@@ -1,4 +1,4 @@
-package com.jayklef.stockservice.dto;
+package com.jayklef.stockservice.repository.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

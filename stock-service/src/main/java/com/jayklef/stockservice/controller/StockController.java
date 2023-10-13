@@ -1,6 +1,6 @@
 package com.jayklef.stockservice.controller;
 
-import com.jayklef.stockservice.dto.StockResponse;
+import com.jayklef.stockservice.repository.dto.StockResponse;
 import com.jayklef.stockservice.service.StockService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;

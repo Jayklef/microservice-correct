@@ -1,6 +1,6 @@
 package com.jayklef.stockservice.service;
 
-import com.jayklef.stockservice.dto.StockResponse;
+import com.jayklef.stockservice.repository.dto.StockResponse;
 import com.jayklef.stockservice.repository.StockRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
